@@ -1,3 +1,9 @@
+
+
+//Reach the Given Amount By minimun Number Of Notes
+
+
+
 package com.arraylogical.java;
 
 public class ArrayATM
